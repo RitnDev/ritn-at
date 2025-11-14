@@ -8,5 +8,5 @@ Les textes sont en lecture seule, pensés pour être partagés principalement su
 
 ## Liste des nouvelles
 
-- [Prédateur(s) – Aelys](./at/2025-11-predateurs-aelys)
+- [La part des loups - (AT) Prédateur(s)](./at/2025-11-predateurs-aelys)
 <!-- - [Autre AT](./at/2025-XX-autre-at) -->
