@@ -6,7 +6,7 @@
 <meta name="robots" content="noindex,nofollow">
 
 ---
-
+  
 Le garçon gisait près du feu quand Aelys arriva.
 
 Le sang coulait encore entre ses doigts serrés sur son flanc, tachant la laine écrue, mais la morsure n'était pas profonde. La bête avait été repoussée par les cris, les torches, le fouet improvisé d'une branche enflammée. À présent, il était allongé près du foyer, à demi conscient, et l'odeur de suif et de sang tiède pesait sur la pièce.
