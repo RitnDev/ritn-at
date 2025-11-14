@@ -1,11 +1,13 @@
-# La part des loups
-
-> AT sur le theme : "Prédateur(s)"
-
+---
+title: "La part des loups"
+---
 <!-- Empêche (en théorie) l’indexation par Google & co -->
 <meta name="robots" content="noindex,nofollow">
 
+> AT sur le theme : "Prédateur(s)"  
+
 ---
+  
   
 Le garçon gisait près du feu quand Aelys arriva.
 
