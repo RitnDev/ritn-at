@@ -1,7 +1,3 @@
----
-title: "AT - Univers de Ritn"
----
-
 <!-- Empêche (en théorie) l’indexation par Google & co -->
 <meta name="robots" content="noindex,nofollow">
 
@@ -13,4 +9,4 @@ Les textes sont en lecture seule, pensés pour être partagés principalement su
 ## Liste des nouvelles
 
 - [Prédateur(s) – Aelys](./at/2025-11-predateurs-aelys)
-- [Autre AT](./at/2025-XX-autre-at)
+<!-- - [Autre AT](./at/2025-XX-autre-at) -->
