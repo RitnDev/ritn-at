@@ -9,4 +9,5 @@ Les textes sont en lecture seule, pensés pour être partagés principalement su
 ## Liste des nouvelles
 
 - [La part des loups - (AT) Prédateur(s)](./at/2025-11-predateurs-aelys)
+- [Accorder le geste - (AT) Aux ultimes Chimères](./at/2025-12-accorder-le-geste-aelys)
 <!-- - [Autre AT](./at/2025-XX-autre-at) -->
